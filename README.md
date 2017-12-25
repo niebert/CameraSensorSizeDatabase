@@ -4,6 +4,10 @@ Camera Sensor Size Database
 
 An open camera sensor size database.
 
+Additinal Information about Camera Sensor Size: https://newatlas.com/camera-sensor-size-guide/26684/
+
+You can add sensor width data you have found in the Wiki. Every now and then the data will be included in the Database and a pull request will be generated to integrate the new data in the openMVG/CameraSensorSizeDatabase
+
 ------------
 Introduction
 ------------
